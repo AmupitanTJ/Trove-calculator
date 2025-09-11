@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TROVE Calculator</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    
+    <div id="calculator">
+    <div class="input">
+      <input
+        id="displayInput"
+        type="text"
+        pattern="[0-9]"
+        inputmode="numeric" />
+    </div>
+    <div class="calcontainer">
+      <div class="numberContainer">
+        <button class="number-button" data-value="1">1</button>
+
+        <button class="number-button" data-value="2">2</button>
+
+        <button class="number-button" data-value="3">3</button>
+
+        <button class="number-button" data-value="4">4</button>
+
+        <button class="number-button" data-value="5">5</button>
+
+        <button class="number-button" data-value="6">6</button>
+
+        <button class="number-button" data-value="7">7</button>
+
+        <button class="number-button" data-value="8">8</button>
+
+        <button class="c" id="clearButton">C</button>
+
+        <button class="number-button" data-value="9">9</button>
+
+        <button class="number-button" data-value="0">0</button>
+
+        <button class="c" id="equalsButton">=</button>
+      </div>
+
+      <div class="operatorscontainer">
+        <div class="operators">
+          <button class="operator-button" id="addition" data-value="+">
+            +
+          </button>
+          <button class="operator-button" id="subtraction" data-value="-">
+            -
+          </button>
+          <button class="operator-button" id="multiplication" data-value="*">
+            ×
+          </button>
+          <button class="operator-button" id="division" data-value="÷">
+            ÷
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>
