@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="TROVE Calc">
+  <rect width="512" height="512" rx="112" fill="#266210"/>
+  <rect x="88" y="92" width="336" height="88" rx="28" fill="#E1DCC9"/>
+  <rect x="200" y="200" width="112" height="220" rx="28" fill="#E1DCC9"/>
+  <rect x="96" y="360" width="72" height="56" rx="16" fill="#E1DCC9" opacity="0.28"/>
+  <rect x="344" y="360" width="72" height="56" rx="16" fill="#E1DCC9" opacity="0.28"/>
+</svg>
