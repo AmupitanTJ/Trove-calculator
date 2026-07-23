@@ -1,8 +1,7 @@
 # TROVE Calc
 
-A premium **Standard & Scientific calculator** Progressive Web App — HTML, CSS, and Vanilla JavaScript — built as a professional frontend portfolio product.
+A premium **Standard & Scientific calculator** Progressive Web App — HTML, CSS, and Vanilla JavaScript
 
-**Author:** Tosin Joseph Amupitan
 
 ---
 
